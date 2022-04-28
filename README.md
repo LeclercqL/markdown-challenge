@@ -26,4 +26,4 @@ A faire
 ###### TL;DR
 C'était bien drôle
 
-[Nicolas](https://github.com/lambertnicolas/markdown-challenge) Latifa Leclercq [Arthur](https://github.com/kingdragox99/markdown-challenge)
+[<<](https://github.com/lambertnicolas/markdown-challenge) Latifa [>>](https://github.com/kingdragox99/markdown-challenge)
