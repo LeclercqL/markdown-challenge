@@ -26,3 +26,4 @@ A faire
 ###### TL;DR
 C'était bien drôle
 
+[Nicolas](https://github.com/lambertnicolas) Latifa Leclercq [Arthur](https://github.com/kingdragox99)
