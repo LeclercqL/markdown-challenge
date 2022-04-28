@@ -7,7 +7,7 @@ Personal intro (exo)
 |---|---|
 |Couleur préférée|Noire|
 |Nourriture préféré |Nouilles|
-|Ananas sur la pizza |Yes &#9746;No &#9744;|
+|Ananas sur la pizza |Yes &#9744;No &#9746;|
 
  
 
